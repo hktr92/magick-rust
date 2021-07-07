@@ -1,0 +1,3 @@
+[submodule "magick-sys/ImageMagick"]
+	path = magick-sys/ImageMagick
+	url = https://github.com/ImageMagick/ImageMagick/

@@ -21,3 +21,6 @@ pkg-config = "0.3"
 
 # Workaround for bindgen bug when ImageMagick is compiled with disable-hdri
 disable-hdri = []
+
+[lib]
+name = "magick"
